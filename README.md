@@ -5,3 +5,5 @@ It uses cURL for downloading stock prices from yahoo.
 The program simulates users! That means you can buy, sell or admire your stocks.
 
 if you wish to run this program as console, instead of gui, run it with this parameter "--konzola"
+
+Dependencies for running are : [FLTK](https://www.fltk.org/) (Fast Light ToolKit) and [cURL](https://curl.se/)
