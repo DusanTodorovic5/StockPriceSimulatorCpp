@@ -1,4 +1,4 @@
-# StockPriceSimulatorCpp
+# Stock Price Simulator in Cpp and FLTK
 This is stock price viewer simulator made in Cpp using FLTK
 
 It uses cURL for downloading stock prices from yahoo.
