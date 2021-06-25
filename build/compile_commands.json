@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/main.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/main.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/main.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/akcijeGui.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/akcijeGui.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/akcijeGui.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/datum.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/datum.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/datum.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/grafik.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/grafik.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/grafik.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/gui.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/gui.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/gui.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/konzola.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/konzola.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/konzola.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/parser.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/parser.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/parser.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/podaci.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/podaci.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/podaci.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/sqlBaza.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/sqlBaza.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/sqlBaza.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/tabela.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/tabela.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/tabela.cpp"
+},
+{
+  "directory": "/mnt/disk3/POOP Projekat/Projekat/build",
+  "command": "/usr/bin/c++ -I../src -I../headers -g -o CMakeFiles/stockSimulator.dir/src/transakcijeGui.cpp.o -c \"/mnt/disk3/POOP Projekat/Projekat/src/transakcijeGui.cpp\"",
+  "file": "/mnt/disk3/POOP Projekat/Projekat/src/transakcijeGui.cpp"
+}
+]
