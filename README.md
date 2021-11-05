@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/79877752/140406132-5c9d4628-85ff-4326-
 
 ## Dependencies
 
-It uses cURL for downloading stock prices from yahoo.
+It uses [cURL](https://curl.se/) for downloading stock prices from yahoo.
 
 
 ## How to run
